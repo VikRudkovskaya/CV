@@ -18,10 +18,10 @@
 ## Personal projects
 
 ## Visual materials
-![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v1.png)
+![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v2.png)
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v1.png)
 
-![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v1.png)
+![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
 
