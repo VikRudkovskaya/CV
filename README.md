@@ -5,6 +5,8 @@
 
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
+
+
 ## Собственные проекты
 
 ## Краткая биография
@@ -18,9 +20,11 @@
 ## Personal projects
 
 ## Visual materials
-![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v2.png)
+![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v2.png)
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v1.png)
+
+![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v2.png)
 
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
