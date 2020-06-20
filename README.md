@@ -27,7 +27,7 @@
 ## Visual materials
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v3.png)
 
-![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v1.png)
+![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v2.png)
 
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v3.png)
 
