@@ -31,7 +31,7 @@
 
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
 
-![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v3.png)
+![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v4.png)
 
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
