@@ -1,4 +1,5 @@
-# CV
+# CV 
+▥ Rudkovskaya Viktoria ▥ iOS Developer ▥
 
 ## Intro
 
@@ -7,8 +8,11 @@
 
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
+### 2017 - н. в. [▲ Reksoft]
 
+### 2017 [□ RestartIT □]
 
+### 2016 - 2017 [FutureComes ◯]
 
 ## Собственные проекты
 
@@ -31,7 +35,7 @@
 
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
 
-![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v4.png)
+![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v5.png)
 
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
