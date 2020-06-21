@@ -25,11 +25,11 @@
 ## Personal projects
 
 ## Visual materials
-![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v3.png)
+![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
 
-![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v2.png)
+![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
-![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v3.png)
+![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
 
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
