@@ -30,7 +30,7 @@
 
 ## Visual materials
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
-![ARVTB-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-2-v1.png)
+![ARVTB-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-2-v1-min.png)
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
