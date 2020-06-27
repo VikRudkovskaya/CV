@@ -30,11 +30,12 @@
 
 ## Visual materials
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
-![ARVTB-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-2-v2.png)
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
+
+![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
 ![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v5.png)
 
