@@ -37,7 +37,7 @@
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
-![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v5.png)
+![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v6.png)
 
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
