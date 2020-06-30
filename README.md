@@ -28,13 +28,13 @@ https://futurecomes.com/
 Работа над несколькими стартапами компании. Основные проекты: ToRound и Alter
 
 ### ToRound
-<Проект не поддерживается>
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound.png)
+<Проект не поддерживается>
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
 ### Alter | Alter Pro | Snap Art
-﹝Проект не поддерживается. Приложения есть в AppStore, но серверная часть не работает〕
 ![ToAlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter.png)
+﹝Проект не поддерживается. Приложения есть в AppStore, но серверная часть не работает〕
 Snap Art https://snapart.me/
 __
 Alter https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295
