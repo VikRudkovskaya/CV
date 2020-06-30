@@ -11,21 +11,25 @@
 https://www.reksoft.com/
 В 2017 году начала работать в аутсорсинговой компании Reksoft на различных проектах. Два самых значимых: AR ВТБ  и Okey Доставка.
 
----
-
 ### AR ВТБ
+![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v2.png)
 Необычный проект для российского банка.
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.
+
+***
 
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
 
 ### О'КЕЙ Доставка
-![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey.png)
+![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v2.png)
 https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.
+
+![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ALP-v2.png)
+
 ~~Проект не поддерживается~~
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
 
@@ -42,10 +46,10 @@ AppStore ⟼ https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
----
+***
 
 ### Alter | Alter Pro | Snap Art
-![ToAlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v2.png)
+![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v2.png)
 ╳ Проект не поддерживается. Приложения есть в AppStore, но серверная часть не работает ╳
 
 Snap Art ⟶ https://snapart.me/
