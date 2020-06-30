@@ -9,6 +9,7 @@
 
 ## ▲ Reksoft [2017 - н. в.]
 https://www.reksoft.com/
+В 2017 году начала работать в аутсорсинговой компании Reksoft на различных проектах. Два самых значимых: AR ВТБ  и Okey Доставка.
 
 ### AR ВТБ
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
@@ -24,12 +25,16 @@ https://www.reksoft.com/
 
 ## FutureComes ◯ [2016 - 2017]
 https://futurecomes.com/ 
+Работа над несколькими стартапами компании. Основные проекты: ToRound и Alter
+
 ### ToRound
 <Проект не поддерживается>
+![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound.png)
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
 ### Alter | Alter Pro | Snap Art
 ﹝Проект не поддерживается. Приложения есть в AppStore, но серверная часть не работает〕
+![ToAlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter.png)
 Snap Art https://snapart.me/
 __
 Alter https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295
