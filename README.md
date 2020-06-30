@@ -8,18 +8,21 @@
 
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
-## ▲ Reksoft [2017 - н. в.]
+## ▲ Reksoft 
+[2017 - н. в.]
 ### AR ВТБ
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
 
 ### О'КЕЙ
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
-## □ RestartIT □ [2017]
+## ▨ RestartIT ▧ 
+[2017]
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
 
 
-## FutureComes ◯ [2016 - 2017]
+## FutureComes ◯ 
+[2016 - 2017]
 ### ToRound
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
