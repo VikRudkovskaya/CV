@@ -18,13 +18,13 @@ https://www.reksoft.com/
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)
 
 ### О'КЕЙ Доставка
+![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey.png)
 https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
 ## ▨ RestartIT ▧ 〚2017〛
-Работа в маленькой аутсорсинговой компании. Консультирование, разработка технических решений, проведение code review, оценка сроков.
-Основной проект: абстрактная программа лояльности
-
+Работа в маленькой аутсорсинговой компании. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.
+╳ Проект не поддерживается ╳
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
 
 ## FutureComes ◯ 〚2016 - 2017〛
@@ -34,19 +34,21 @@ https://futurecomes.com/
 ### ToRound
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v2.png)
 
-<Проект не поддерживается>
-https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681
+╳ Проект не поддерживается ╳
+Landing ⟼ https://to-round.com
+AppStore ⟼ https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)
 
 ### Alter | Alter Pro | Snap Art
 ![ToAlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v2.png)
-﹝Проект не поддерживается. Приложения есть в AppStore, но серверная часть не работает〕
-Snap Art https://snapart.me/
+╳ Проект не поддерживается. Приложения есть в AppStore, но серверная часть не работает ╳
+
+Snap Art ⟶ https://snapart.me/
 __
-Alter https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295
+Alter AppStore ⟼  https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295
 __
-Alter Pro https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526
+Alter Pro ⟿ https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526
 
 # Собственные проекты
 
