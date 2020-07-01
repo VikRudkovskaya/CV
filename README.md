@@ -13,6 +13,7 @@ https://www.reksoft.com/
 
 ### AR ВТБ
 Необычный проект для российского банка.  
+
 ![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v3.png)  
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.
 
@@ -20,10 +21,11 @@ https://www.reksoft.com/
 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера.  
+
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v3.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
 
-[Посмотреть приложение в AppStore  ⟶ ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
+[Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
@@ -44,8 +46,8 @@ https://futurecomes.com/
 ### ToRound
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v4.png)  
 
-[Посмотреть Landing ◍ ⟶ ](https://to-round.com)  
-[Посмотреть приложение в AppStore  ⟶ ](https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681)
+[Посмотреть Landing ◍   ⟶ ](https://to-round.com "ToRound landing page")  
+[Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681)
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
 
@@ -53,16 +55,16 @@ https://futurecomes.com/
 
 ### Alter | Alter Pro | Snap Art
 ![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v5.png)  
-___
+__
 Snap Art  
-[Этот лендинг - настоящее произведение искусства ░ ⟶](https://apps.apple.com/app/id1189930338)  
-[Открыть в AppStore  ⟶](https://snapart.me/)  
-___  
+[Лендинг - настоящее произведение искусства ░  ⟶](https://apps.apple.com/app/id1189930338 "♡")  
+[Открыть в AppStore   ⟶](https://snapart.me/)  
+__   
 Alter  
-[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295)  
-___
+[Открыть в AppStore   ⟶](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⍙")  
+__
 Alter Pro  
-[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526)  
+[Открыть в AppStore   ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526)  
 
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
