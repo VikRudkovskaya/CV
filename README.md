@@ -31,12 +31,12 @@ https://www.reksoft.com/
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
 
+### Abstarct Loyalty Programm
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ALP-v2.png)  
 
+![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)  
+
 ╳ Проект не поддерживается. Не работает серверная часть ╳  
-
-![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)
-
 ## FutureComes ◯ 〚2016 - 2017〛
 https://futurecomes.com/  
 Работа над несколькими стартапами компании. Основные проекты: ToRound и Alter  
@@ -44,26 +44,27 @@ https://futurecomes.com/
 ### ToRound
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v4.png)  
 
-╳ Серверная часть не поддерживается. Можно посмотреть оффлайн-функционал ╳  
-
 [Посмотреть Landing ◍ ⟶ ](https://to-round.com)  
 [Посмотреть приложение в AppStore  ⟶ ](https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681)
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
 
+╳ Серверная часть не поддерживается. Можно посмотреть оффлайн-функционал ╳  
+
 ### Alter | Alter Pro | Snap Art
-![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v4.png)  
-╳ Приложения не поддерживаются. Серверная часть не работает ╳   
+![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v5.png)  
 ___
-Snap Art 
-[Этот лендинг - настоящее произведение искусства ░ ⟶](https://apps.apple.com/app/id1189930338)
+Snap Art  
+[Этот лендинг - настоящее произведение искусства ░ ⟶](https://apps.apple.com/app/id1189930338)  
 [Открыть в AppStore  ⟶](https://snapart.me/)  
 ___  
 Alter  
 [Открыть в AppStore  ⟶](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295)  
 ___
 Alter Pro  
-[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526)
+[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526)  
+
+╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
 # Собственные проекты
 
