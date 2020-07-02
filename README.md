@@ -9,6 +9,8 @@
 
 ## ▲ Reksoft 〚2017 - н. в.〛
 https://www.reksoft.com/  
+
+![Reksoft-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-Reksoft.png)  
 В 2017 году начала работать в аутсорсинговой компании Reksoft [~200 человек] на различных проектах. Два самых значимых: AR ВТБ  и Okey Доставка.
 
 ### AR ВТБ
@@ -16,12 +18,18 @@ https://www.reksoft.com/
 
 ![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v3.png)  
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
-Разработала два готовых к публикации приложения-прототипа с нуля. 
+
+Разработала два готовых к публикации приложения-прототипа с нуля.  
+
+〘Swift〙〘REST〙 〘SpriteKit〙〘SceneKit〙 〘ARKit〙〘Analitics〙
+
 
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)  
 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
+
+〘Objective-C〙 〘REST〙 〘CoreData〙 〘API GoogleMaps〙 〘Analitics〙
 
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v3.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
@@ -55,23 +63,31 @@ https://www.reksoft.com/
 
 ## FutureComes ◯ 〚2016 - 2017〛
 https://futurecomes.com/  
+
+![FC-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-FutureComes.png "Future Comes Family")  
 Работа над несколькими стартапами компании в небольшой команде. Основные проекты: ToRound и Alter.  
 
 ### ToRound
+Таск-менеджер для визуалов. Каждое дело - отдельный шарик  
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v4.png "◯")  
 
-〘Objective-C〙〘Sockets〙〘Magical Record〙〘SpriteKit〙〘AutoLayout〙
+
+
+〘Objective-C〙〘Sockets〙〘Magical Record〙〘SpriteKit〙〘AutoLayout〙  〘Gyroscope〙
 [Посмотреть Landing ◍   ⟶ ](https://to-round.com "◯ ToRound landing page ◯")  
-[Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681)
+[Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681)  
+
+╳ Оффлайн-функционал точно работает ╳  
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
 
-╳ Серверная часть не поддерживается. Можно посмотреть оффлайн-функционал ╳  
 
 ### Alter | Alter Pro | Snap Art
 ![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v5.png)  
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
+
+〘Objective-C〙 〘〙 〘〙
 __  
 Snap Art  
 [Посмотреть лендинг     ⟶](https://snapart.me/ "Этот лендинг вызывает у меня восторг!  Настоящее произведение искусства ♡")  
@@ -89,14 +105,22 @@ Alter Pro
 
 # Технологии и инструменты
 
+# Образование
+
 # Краткая биография
+### 2020
+
+### 2019 - н. в.
 ![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v6.png)
 
-# Образование
+
 
 # Expiriens
 
 # BIO
+## 2020
+
+## 2019 - now
 
 # Contacts
 
