@@ -8,8 +8,6 @@
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
 ## ▲ Reksoft 〚2017 - н. в.〛
-![Reksoft-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-Reksoft-v2.png)  
-
 https://www.reksoft.com/  
 
 В 2017 году начала работать в аутсорсинговой компании Reksoft [~200 человек] на различных проектах. Два самых значимых: AR ВТБ  и Okey Доставка.
@@ -63,8 +61,8 @@ https://www.reksoft.com/
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)  
 
 ## FutureComes ◯ 〚2016 - 2017〛
-![FC-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-FutureComes.png "Future Comes Family")  
 https://futurecomes.com/  
+
 Работа над несколькими стартапами компании в небольшой команде. Основные проекты: ToRound и Alter.  
 
 ### ToRound
