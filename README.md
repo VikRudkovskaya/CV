@@ -8,9 +8,10 @@
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
 ## ▲ Reksoft 〚2017 - н. в.〛
+![Reksoft-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-Reksoft-v2.png)  
+
 https://www.reksoft.com/  
 
-![Reksoft-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-Reksoft.png)  
 В 2017 году начала работать в аутсорсинговой компании Reksoft [~200 человек] на различных проектах. Два самых значимых: AR ВТБ  и Okey Доставка.
 
 ### AR ВТБ
@@ -29,10 +30,10 @@ https://www.reksoft.com/
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
 
-〘Objective-C〙 〘REST〙 〘CoreData〙 〘API GoogleMaps〙 〘Analitics〙
-
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v3.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
+
+〘Objective-C〙 〘REST〙 〘CoreData〙 〘API GoogleMaps〙 〘Analitics〙
 
 [Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
@@ -62,9 +63,8 @@ https://www.reksoft.com/
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)  
 
 ## FutureComes ◯ 〚2016 - 2017〛
-https://futurecomes.com/  
-
 ![FC-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Company-Logo-FutureComes.png "Future Comes Family")  
+https://futurecomes.com/  
 Работа над несколькими стартапами компании в небольшой команде. Основные проекты: ToRound и Alter.  
 
 ### ToRound
