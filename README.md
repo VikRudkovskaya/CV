@@ -1,11 +1,10 @@
 # CV ▥ Rudkovskaya Viktoria ▥ iOS Developer ▥
 
 # Intro
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
 # Проекты внутри компаний
 В этом разделе  кратко описан опыт работы и собраны основные проекты, которые я делала в рамках работы по найму. Разумеется, сделанных приложений было больше, однако не со всеми мне хотелось бы себя ассоциировать, поэтому указываю только то, что "зацепило". 
-
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
 
 ## ▲ Reksoft 〚2017 - н. в.〛
 https://www.reksoft.com/  
@@ -20,7 +19,7 @@ https://www.reksoft.com/
 
 Разработала два готовых к публикации приложения-прототипа с нуля.  
 
-〘Swift〙〘REST〙 〘SpriteKit〙〘SceneKit〙 〘ARKit〙〘Analitics〙
+〘Swift〙〘REST〙 〘SpriteKit〙〘SceneKit〙 〘ARKit〙〘Analitics〙 
 
 
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)  
@@ -31,7 +30,7 @@ https://www.reksoft.com/
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v3.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
 
-〘Objective-C〙 〘REST〙 〘CoreData〙 〘API GoogleMaps〙 〘Analitics〙
+〘Objective-C〙 〘REST〙 〘CoreData〙 〘API GoogleMaps〙 〘Analitics〙 〘Работа с Legacy〙 
 
 [Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
@@ -39,7 +38,7 @@ https://www.reksoft.com/
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v3.png)
 
 ## ▨ RestartIT ▧ 〚2017〛
-Работа в маленькой аутсорсинговой компании. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
+Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
 
 ### Abstarct Loyalty Programm
 Готовые решения для внедрения программ лояльности  
@@ -63,15 +62,18 @@ https://www.reksoft.com/
 ## FutureComes ◯ 〚2016 - 2017〛
 https://futurecomes.com/  
 
-Работа над несколькими стартапами компании в небольшой команде. Основные проекты: ToRound и Alter.  
+Работа над несколькими стартапами компании в небольшой команде. 
+Основные проекты: ToRound и Alter.  
 
 ### ToRound
 Таск-менеджер для визуалов. Каждое дело - отдельный шарик  
+
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v4.png "◯")  
 
 
 
-〘Objective-C〙〘Sockets〙〘Magical Record〙〘SpriteKit〙〘AutoLayout〙  〘Gyroscope〙
+〘Objective-C〙〘Sockets〙〘Magical Record〙〘SpriteKit〙〘AutoLayout〙  〘Gyroscope〙  〘Local Push Notifications〙 〘Работа с Legacy〙
+
 [Посмотреть Landing ◍   ⟶ ](https://to-round.com "◯ ToRound landing page ◯")  
 [Посмотреть приложение в AppStore    ⟶ ](https://apps.apple.com/ru/app/to-round-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%82%D1%83-%D0%B4%D1%83-%D0%BB%D0%B8%D1%81%D1%82/id1044638681)  
 
@@ -85,7 +87,7 @@ https://futurecomes.com/
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
 
-〘Objective-C〙 〘〙 〘〙
+〘Objective-C〙 〘AVFoundation〙 〘Remote Push Notifications〙 〘In-App Purchase〙  
 __  
 Snap Art  
 [Посмотреть лендинг     ⟶](https://snapart.me/ "Этот лендинг вызывает у меня восторг!  Настоящее произведение искусства ♡")  
@@ -99,6 +101,8 @@ Alter Pro
 
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
+![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
+
 # Собственные проекты
 
 # Технологии и инструменты
@@ -107,8 +111,16 @@ Alter Pro
 
 # Краткая биография
 ### 2020
-
+◁◁◁  
 ### 2019 - н. в.
+
+### 2015 - н. в.
+
+### 2009 - 2015
+
+### 2009
+＜＜＜ 
+
 ![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v6.png)
 
 
