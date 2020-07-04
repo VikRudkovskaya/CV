@@ -105,6 +105,8 @@ Alter Pro
 
 # Собственные проекты
 ### Little Button Board
+〘Swift〙 〘MVVM〙 〘Client-Server like〙 〘Sketching & Art〙 
+[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/PersonalPrjcts-LBB-Artwork.png)  
 
 # Технологии и инструменты
