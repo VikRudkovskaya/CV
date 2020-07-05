@@ -21,7 +21,6 @@ https://www.reksoft.com/
 
 〘Swift〙〘REST〙 〘SpriteKit〙〘SceneKit〙 〘ARKit〙〘Analitics〙 
 
-
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)  
 
 ### О'КЕЙ Доставка
@@ -70,8 +69,6 @@ https://futurecomes.com/
 
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v4.png "◯")  
 
-
-
 〘Objective-C〙〘Sockets〙〘Magical Record〙〘SpriteKit〙〘AutoLayout〙  〘Gyroscope〙  〘Local Push Notifications〙 〘Работа с Legacy〙
 
 [Посмотреть Landing ◍   ⟶ ](https://to-round.com "◯ ToRound landing page ◯")  
@@ -106,8 +103,22 @@ Alter Pro
 # Собственные проекты
 ### Little Button Board
 〘Swift〙 〘MVVM〙 〘Client-Server like〙 〘Sketching & Art〙 
-[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/PersonalPrjcts-LBB-Artwork.png)  
+[Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
+
+### Shadesmar
+Море бусин  
+
+〘Swift〙 〘MVVM〙 〘Client-Server like〙 〘Sketching & Art〙   
+
+╳  In progress ╳   
+
+[Code](https://github.com/VikRudkovskaya/Shadesmar)  
+
+### Визуальные материалы вне проектов
+#### White Noize
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
+![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 
 # Технологии и инструменты
 
@@ -140,8 +151,6 @@ Alter Pro
 # Контакты
 
 # Визуальное
-![Eggs](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Sphere-Egg.png)  
-
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
 
 
