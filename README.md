@@ -102,7 +102,7 @@ Alter Pro
 
 # Собственные проекты
 ### Little Button Board
-〘Swift〙 〘MVVM〙 〘Client-Server like〙 〘Sketching & Art〙 
+〘Swift〙 〘MVVM〙 〘Client-Server like〙 〘Sketching & Art〙  
 [Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 
@@ -113,11 +113,12 @@ Alter Pro
 
 ╳  In progress ╳   
 
-[Code](https://github.com/VikRudkovskaya/Shadesmar)  
+[Посмотреть код](https://github.com/VikRudkovskaya/Shadesmar)  
 
 ### Визуальные материалы вне проектов
 #### White Noize
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 
 # Технологии и инструменты
