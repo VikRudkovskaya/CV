@@ -139,7 +139,7 @@ Alter Pro
 # Контакты
 
 # Краткая биография
-![](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-About-Me.png "Viktoria Rudkovskaya")  
+![](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-About-Me-v2.png "Viktoria Rudkovskaya")  
 ### 2020
 ◎ <<<  Переехала жить в Таллин [Эстония] 
 
