@@ -108,7 +108,7 @@ Alter Pro
 ### Little Button Board
 Soft & Pastel  
 
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v2.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v3.png)  
   
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
