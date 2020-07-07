@@ -118,6 +118,8 @@ Soft & Pastel
 
 ### Shadesmar
 Море бусин  
+  
+  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar.png)  
 
 〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
   
