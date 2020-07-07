@@ -119,7 +119,7 @@ Soft & Pastel
 ### Shadesmar
 Море бусин  
   
-  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar.png)  
+  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v3.png)  
 
 〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
   
@@ -136,8 +136,11 @@ Soft & Pastel
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
 # Технологии и инструменты
-〘OOP〙 〘SOLID〙〘Client-Server〙〘REST〙 〘MVC〙〘MVVM〙  
-〘JSON〙
+〘Swift〙 〘Objective-C〙
+〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙 
+〘OOP〙 〘SOLID〙 〘Client-Server〙 〘REST〙 〘MVC〙 〘MVVM〙  
+〘JSON〙  
+〘Publishing〙  
 〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙
 
 # Образование
@@ -155,7 +158,7 @@ Soft & Pastel
 Telegram: @VikRdkvsk    
   
 ◘ Социальные сети  
-LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8
+LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
 
