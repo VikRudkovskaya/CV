@@ -108,7 +108,7 @@ Alter Pro
 ### Little Button Board
 Soft & Pastel  
 
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v2.png)  
   
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
@@ -136,16 +136,28 @@ Soft & Pastel
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
 # Технологии и инструменты
+〘OOP〙 〘SOLID〙〘Client-Server〙〘REST〙 〘MVC〙〘MVVM〙  
+〘JSON〙
+〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙
 
 # Образование
-◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)
-〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Теория игр〙  〘Функциональный анализ〙 〘Математическая статистика〙
+◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
+  
+  Прослушанные курсы:  
+〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Теория игр〙 〘Теория управления〙  〘Функциональный анализ〙 〘Математическая статистика〙 〘Философия〙
 
+  
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
-https://www.instagram.com/viktoriiarudkovskaia/
-https://vk.com/id151521373
+
+◘ Связь  
+Telegram: @VikRdkvsk    
+  
+◘ Социальные сети  
+LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8
+Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
+VK: https://vk.com/id151521373  
 
 
 # Краткая биография
