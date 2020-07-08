@@ -108,7 +108,7 @@ Alter Pro
 ### Little Button Board
 Soft & Pastel  
 
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v3.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
   
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
@@ -119,7 +119,7 @@ Soft & Pastel
 ### Shadesmar
 Море бусин  
   
-  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v5.png)  
+  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v6.png)  
 
 〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
   
