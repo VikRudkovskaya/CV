@@ -105,6 +105,7 @@ Alter Pro
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
 
 # Собственные проекты
+https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
 ### Little Button Board
 Soft & Pastel  
 
@@ -136,6 +137,7 @@ Soft & Pastel
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
+![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙
