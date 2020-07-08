@@ -49,7 +49,7 @@ https://www.reksoft.com/
 
 〚Lead iOS Developer〛   
   
-Разработала новую платформу для быстрого клонирования приложения с использованием методологии White Labeling [одно приложение ≜ один target]. Провела полный рефакторинг существующих компонентов, разработала и интегрировала новый дизайн, также занималась разработкой новых компонентов с учетом пожеланий заказчика.  
+Разработала новую платформу для быстрого клонирования приложения с использованием методологии White Labeling [одно приложение ≝ один target]. Провела полный рефакторинг существующих компонентов, разработала и интегрировала новый дизайн, также занималась разработкой новых компонентов с учетом пожеланий заказчика.  
 
 〘Objective-C〙 〘REST〙 〘CoreData〙 〘API GoogleMaps〙 〘White Labeling Methodology〙 
 
@@ -72,7 +72,9 @@ https://futurecomes.com/
 Таск-менеджер для визуалов. Каждое дело - отдельный шарик  
 
 ![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v4.png "◯")  
-
+  
+〚iOS Developer〛[в составе небольшой команды] 
+  
 〘Objective-C〙〘Sockets〙〘Magical Record〙〘SpriteKit〙〘AutoLayout〙  〘Gyroscope〙  〘Local Push Notifications〙 〘Работа с Legacy〙
 
 [Посмотреть Landing ◍   ⟶ ](https://to-round.com "◯ ToRound landing page ◯")  
@@ -88,6 +90,8 @@ https://futurecomes.com/
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
 
+〚iOS Developer〛  
+  
 〘Objective-C〙 〘AVFoundation〙 〘Remote Push Notifications〙 〘In-App Purchase〙  
 __  
 Snap Art  
@@ -95,10 +99,10 @@ Snap Art
 [Открыть в AppStore    ⟶](https://apps.apple.com/app/id1189930338)  
 __   
 Alter  
-[Открыть в AppStore    ⟶](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⍙")  
+[Открыть в AppStore    ⟶](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⍙⑀⑈")  
 __  
 Alter Pro  
-[Открыть в AppStore    ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526)  
+[Открыть в AppStore    ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
 
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
@@ -140,7 +144,7 @@ Soft & Pastel
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
-#### Плоские персонажи
+#### Плоские персонажи. Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI 
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
 # Технологии и инструменты
@@ -164,7 +168,7 @@ Soft & Pastel
 
 ▥ Связь  
 Telegram: @VikRdkvsk  
-Skype: 
+Skype: vik-rudkovskaya  
   
 ▤ Социальные сети  
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
