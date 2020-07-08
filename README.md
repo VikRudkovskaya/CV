@@ -114,10 +114,12 @@ Soft & Pastel
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
 [Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
-  
+
+![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
+
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 
-![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds.png)  
+
 
 ### Shadesmar
 Море бусин  
@@ -137,11 +139,13 @@ Soft & Pastel
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
+
+#### Плоские персонажи
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙
-〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙 
+〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙  
 〘OOP〙 〘SOLID〙 〘Client-Server〙 〘REST〙 〘MVC〙 〘MVVM〙  
 〘JSON〙  
 〘Publishing〙  
@@ -151,17 +155,18 @@ Soft & Pastel
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
   
   Прослушанные курсы:  
-〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Теория игр〙 〘Теория управления〙  〘Функциональный анализ〙 〘Математическая статистика〙 〘Философия〙
+〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Дискретный анализ〙 〘Теория игр〙 〘Теория управления〙  〘Функциональный анализ〙 〘Математическая статистика〙 〘Философия〙
 
   
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
 
-◘ Связь  
-Telegram: @VikRdkvsk    
+▥ Связь  
+Telegram: @VikRdkvsk  
+Skype: 
   
-◘ Социальные сети  
+▤ Социальные сети  
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
