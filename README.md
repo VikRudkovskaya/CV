@@ -116,6 +116,8 @@ Soft & Pastel
   
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 
+![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds.png)  
+
 ### Shadesmar
 Море бусин  
   
