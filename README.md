@@ -1,7 +1,10 @@
-# CV ▥ Rudkovskaya Viktoria ▥ iOS Developer ▥
+# CV 
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v1.png)
 
-# Intro
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v0.png)
+Rudkovskaya Viktoria  
+▥ iOS Developer ▥  Artist ▥  
+  
+Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта
 
 # Проекты внутри компаний
 В этом разделе  кратко описан опыт работы и собраны основные проекты, которые я делала в рамках работы по найму. Разумеется, сделанных приложений было больше, однако не со всеми мне хотелось бы себя ассоциировать, поэтому указываю только то, что "зацепило". 
@@ -146,11 +149,11 @@ Soft & Pastel
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
-#### Плоские персонажи. Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI 
-![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
-
 #### Черный монолит
 ![M](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
+
+#### Плоские персонажи. Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI 
+![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙
@@ -171,7 +174,7 @@ Soft & Pastel
 
 # Контакты
 
-▥ Связь  
+▥ Мессенджеры    
 Telegram: @VikRdkvsk  
 Skype: vik-rudkovskaya  
   
@@ -179,6 +182,8 @@ Skype: vik-rudkovskaya
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
+
+▨ Связь   
 
 
 # Краткая биография
