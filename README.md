@@ -1,7 +1,7 @@
 # CV ▥ Rudkovskaya Viktoria ▥ iOS Developer ▥
 
 # Intro
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/exp-years.png)
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v0.png)
 
 # Проекты внутри компаний
 В этом разделе  кратко описан опыт работы и собраны основные проекты, которые я делала в рамках работы по найму. Разумеется, сделанных приложений было больше, однако не со всеми мне хотелось бы себя ассоциировать, поэтому указываю только то, что "зацепило". 
@@ -16,7 +16,9 @@ https://www.reksoft.com/
 
 ![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v3.png)  
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
-
+  
+〚Single iOS Developer〛  
+  
 Разработала два готовых к публикации приложения-прототипа с нуля.  
 
 〘Swift〙〘REST〙 〘SpriteKit〙〘SceneKit〙 〘ARKit〙〘Analitics〙 
@@ -146,6 +148,9 @@ Soft & Pastel
 
 #### Плоские персонажи. Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI 
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
+
+#### Черный монолит
+![M](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙
