@@ -18,7 +18,7 @@ https://www.reksoft.com/
 ### AR ВТБ
 Необычный проект для российского банка  
 
-![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v5.png)  
+![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v6.png)  
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
   
 〚Single iOS Developer〛  
