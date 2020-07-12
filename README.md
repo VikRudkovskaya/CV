@@ -1,7 +1,8 @@
 # CV 
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v2.png)
+# Intro
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v3.png)
 
-Rudkovskaya Viktoria  
+▥ Rudkovskaya Viktoria ▥  
 ▥ iOS Developer ▥  Artist ▥  
   
 Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта
