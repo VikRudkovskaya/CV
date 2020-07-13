@@ -31,6 +31,7 @@ AR - мой большой эксперимент с формами, вызов 
 
 ❒ Несмотря на многое, мне действительно очень нравится полученный результат ❒  
   
+  
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)  
 
 ### О'КЕЙ Доставка
@@ -135,8 +136,8 @@ Soft & Pastel
 [Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
 
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
-
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
+![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts.png)  
 
 
 
