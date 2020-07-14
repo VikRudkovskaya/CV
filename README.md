@@ -139,8 +139,6 @@ Soft & Pastel
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts.png)  
 
-
-
 ### Shadesmar
 Море бусин  
   
@@ -166,6 +164,10 @@ Soft & Pastel
 #### Плоские персонажи. Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI 
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
+#### Логотипы
+![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
+![Logo Swirls](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SwirlsLogos.png)  
+
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙
 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙  
@@ -188,6 +190,7 @@ Soft & Pastel
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
 Skype: vik-rudkovskaya  
+WhatsApp: +79502219224
   
 ▤ Социальные сети  
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
@@ -195,7 +198,7 @@ Instagram: https://www.instagram.com/viktoriiarudkovskaia/
 VK: https://vk.com/id151521373  
 
 ▨ Связь   
-
++372 5399 0700
 
 # Краткая биография
 ![](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-About-Me-v4.png "Viktoria Rudkovskaya")  
