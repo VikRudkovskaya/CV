@@ -106,19 +106,17 @@ https://futurecomes.com/
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
 
-〚iOS Developer〛  
+〚iOS Developer〛[в составе небольшой команды]   
   
 〘Objective-C〙 〘AVFoundation〙 〘Remote Push Notifications〙 〘In-App Purchase〙  
-__  
-Snap Art  
-[Посмотреть лендинг ◍     ⟶](https://snapart.me/ "Этот лендинг вызывает у меня восторг!  Настоящее произведение искусства ♡")  
-[Открыть в AppStore    ⟶](https://apps.apple.com/app/id1189930338)  
-__   
-Alter  
-[Открыть в AppStore    ⟶](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⍙⑀⑈")  
-__  
-Alter Pro  
-[Открыть в AppStore    ⟶](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
+
+〣〣〣〣  
+[Snap Art ⟶ Website ◍](https://snapart.me/ "Этот лендинг вызывает у меня восторг!  Настоящее произведение искусства ♡")  
+[Snap Art ⟶ в AppStore ](https://apps.apple.com/app/id1189930338)  
+〣〣〣  
+[Alter ⟶ в AppStore ](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⍙⑀⑈")  
+〣〣〣    
+[Alter Pro ⟶ в AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
 
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
@@ -152,29 +150,38 @@ Soft & Pastel
 
 ### Визуальные материалы вне проектов
 Зарисовки ускользающих идей
-#### White Noize
+#### White Noize & Cubes
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
+
+#### White Noize & Cubes
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
 #### Черный монолит
+Конструкция, которая время от времени занимает мой ум
 ![M](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
-#### Плоские персонажи. Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI 
+#### НеПлоские персонажи
+Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
-#### Логотипы
+#### Симметрия и ассиметрия
+Штампы | Стикеры | Фишки
+![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Gray.png)  
+
+#### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
-![Logo Swirls](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SwirlsLogos.png)  
+
+
 
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙
 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙  
-〘OOP〙 〘SOLID〙 〘Client-Server〙 〘REST〙 〘MVC〙 〘MVVM〙  
+〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
 〘JSON〙  
-〘Publishing〙  
 〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙
+〘Publishing〙  
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
@@ -190,15 +197,16 @@ Soft & Pastel
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
 Skype: vik-rudkovskaya  
-WhatsApp: +79502219224
+WhatsApp: +79502219224  
+
+▨ Связь   
+  vik-rudkovskaya@yandex.ru  
+  +372 5399 0700  
   
 ▤ Социальные сети  
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
-
-▨ Связь   
-+372 5399 0700
 
 # Краткая биография
 ![](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-About-Me-v4.png "Viktoria Rudkovskaya")  
