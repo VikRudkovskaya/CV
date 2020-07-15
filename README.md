@@ -146,11 +146,11 @@ Soft & Pastel
   
 ╳  In progress ╳   
 
-[Посмотреть код](https://github.com/VikRudkovskaya/Shadesmar)  
+[Посмотреть код и арт](https://github.com/VikRudkovskaya/Shadesmar)  
 
 ### Визуальные материалы вне проектов
 Зарисовки ускользающих идей
-#### White Noize & Cubes
+#### Eggs
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
 
@@ -160,7 +160,7 @@ Soft & Pastel
 
 #### Черный монолит
 Конструкция, которая время от времени занимает мой ум
-![M](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
+![Монолит](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
 #### НеПлоские персонажи
 Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
@@ -168,7 +168,7 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 
 #### Симметрия и ассиметрия
 Штампы | Стикеры | Фишки
-![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Gray.png)  
+![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Gray-v2.png)  
 
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
@@ -176,12 +176,11 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 
 
 # Технологии и инструменты
-〘Swift〙 〘Objective-C〙
+〘Swift〙 〘Objective-C〙  
 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙  
 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
 〘JSON〙  
-〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙
-〘Publishing〙  
+〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙  
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
