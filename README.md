@@ -167,8 +167,10 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
 #### Симметрия и ассиметрия
-Штампы | Стикеры | Фишки
+Штампы | Стикеры | Фишки  
+  
 ![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Gray-v2.png)  
+![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Yellow-v1.png)  
 
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
