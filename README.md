@@ -195,6 +195,7 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
+![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v1.png)  
 
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
