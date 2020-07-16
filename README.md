@@ -212,7 +212,7 @@ Instagram: https://www.instagram.com/viktoriiarudkovskaia/
 VK: https://vk.com/id151521373  
 
 # Краткая биография
-![](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-About-Me-v4.png "Viktoria Rudkovskaya")  
+![Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-About-Me-v4.png "Viktoria Rudkovskaya")  
 ### 2020
 ◎ <<<  Переехала жить в Таллин [Эстония] 
 
@@ -234,7 +234,7 @@ VK: https://vk.com/id151521373
 ### 1991
 ◎ Родилась в России. Детство прошло в городе Саров Нижегородской области  
 
-![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v9.png)
+![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v10.png)
 
 # Визуальное
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
