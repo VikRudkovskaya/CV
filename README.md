@@ -135,7 +135,7 @@ Soft & Pastel
 
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
-![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts.png)  
+![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v3.png)  
 
 ### Shadesmar
 Море бусин  
@@ -195,7 +195,7 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
-![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v3.png)  
+![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v4.png)  
 
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
