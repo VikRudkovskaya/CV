@@ -110,10 +110,10 @@ https://futurecomes.com/
   
 〘Objective-C〙 〘AVFoundation〙 〘Remote Push Notifications〙 〘In-App Purchase〙  
 
-▭ ▭ ▭ 
+▭ ▭ ▭   
 [Snap Art ⟶ Website ◍](https://snapart.me/ "Этот лендинг вызывает у меня восторг - настоящее произведение искусства ♡")  
 [Snap Art ⟶ AppStore ](https://apps.apple.com/app/id1189930338 "░ ▆ ▋▭")  
-▭ ▭ ▭   ▭   ▭ ▭ 
+▭▭▭  
 [Alter ⟶ AppStore ](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⑀⍙⑀")  
 ▭  ▭ ▭  ▭  ▭ ▭ ▭        
 [Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
