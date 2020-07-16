@@ -234,7 +234,7 @@ VK: https://vk.com/id151521373
 ### 1991
 ◎ Родилась в России. Детство прошло в городе Саров Нижегородской области  
 
-![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v7.png)
+![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v8.png)
 
 # Визуальное
 ![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
