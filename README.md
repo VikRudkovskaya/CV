@@ -166,6 +166,9 @@ Soft & Pastel
 Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
 
+#### Техно
+![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1png)  
+
 #### Симметрия и ассиметрия
 Штампы | Стикеры | Фишки  
   
