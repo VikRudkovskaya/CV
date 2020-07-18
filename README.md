@@ -168,6 +168,7 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 
 #### Техно
 ![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)  
+![TechnoM-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-2.png)  
 
 #### Симметрия и ассиметрия
 Штампы | Стикеры | Фишки  
