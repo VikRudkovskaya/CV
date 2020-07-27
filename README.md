@@ -132,7 +132,8 @@ Soft & Pastel
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
 [Открыть в AppStore  ⟶](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
-
+[Экранная запись Youtube ⟶](https://www.youtube.com/watch?v=Sj96SaZYuUc)  
+  
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v3.png)  
@@ -160,7 +161,10 @@ Soft & Pastel
   
   Прослушанные курсы:  
 〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Дискретный анализ〙 〘Теория игр〙 〘Теория управления〙  〘Функциональный анализ〙 〘Математическая статистика〙 〘Философия〙
-
+  
+ Защита диплома бакалавра:  
+"Разработка iOS-приложений в среде Xcode"  
+![Посмотреть экранную запись ⟶](https://www.youtube.com/watch?v=PI1l7TGF9Ik&t=6s)  
   
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
@@ -238,7 +242,3 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
-
-
-
-
