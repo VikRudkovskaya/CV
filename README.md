@@ -148,44 +148,9 @@ Soft & Pastel
 
 [Посмотреть код и арт](https://github.com/VikRudkovskaya/Shadesmar)  
 
-### Визуальные материалы вне проектов
-Зарисовки ускользающих идей
-#### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
-![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
-
-#### White Noize & Cubes
-![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
-![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
-
-#### Черный монолит
-Завораживающая конструкция, которая время от времени занимает мой ум
-![Монолит](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
-
-#### НеПлоские персонажи
-Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
-![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
-
-#### Техно
-![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)  
-![TechnoM-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-2.png)  
-![TechnoM-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-3.png) 
-
-#### Симметрия и ассиметрия
-Штампы | Стикеры | Фишки  
-  
-![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Gray-v2.png)  
-![MyPrjcts-Stamp-Y](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Yellow-v1.png)  
-![MyPrjcts-Stamp-Granit](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Granit-v2.png)  
-
-#### VR's Logos
-![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
-
-
-
 # Технологии и инструменты
 〘Swift〙 〘Objective-C〙  
-〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘〙  
+〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙  
 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
 〘JSON〙  
 〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙  
@@ -241,7 +206,39 @@ VK: https://vk.com/id151521373
 
 ![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v10.png)
 
-# Визуальное
-![Expiriens](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Maket-v2.png)
+# Визуальные материалы вне проектов
+Зарисовки ускользающих идей
+#### Eggs
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
+
+#### White Noize & Cubes
+![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
+![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
+
+#### Черный монолит
+Завораживающая конструкция, которая время от времени занимает мой ум
+![Монолит](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
+
+#### НеПлоские персонажи
+Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
+![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
+
+#### Техно
+![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)  
+![TechnoM-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-2.png)  
+![TechnoM-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-3.png) 
+
+#### Симметрия и ассиметрия
+Штампы | Стикеры | Фишки  
+  
+![MyPrjcts-Stamp-Gray](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Gray-v2.png)  
+![MyPrjcts-Stamp-Y](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Yellow-v1.png)  
+![MyPrjcts-Stamp-Granit](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Stamp-Granit-v2.png)  
+
+#### VR's Logos
+![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
+
+
 
 
