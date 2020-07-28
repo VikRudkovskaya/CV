@@ -149,7 +149,7 @@ Soft & Pastel
 [Посмотреть код и арт](https://github.com/VikRudkovskaya/Shadesmar)  
 
 # Технологии и инструменты
-  ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v1.png)  
+  ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v2.png)  
 〘Swift〙 〘Objective-C〙  
 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙  
 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
