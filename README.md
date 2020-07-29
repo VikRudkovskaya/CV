@@ -149,7 +149,8 @@ Soft & Pastel
 [Посмотреть код и арт](https://github.com/VikRudkovskaya/Shadesmar)  
 
 # Технологии и инструменты
-  ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v2.png)  
+![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v2.png)  
+![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
 〘Swift〙 〘Objective-C〙  
 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙  
 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
@@ -173,7 +174,7 @@ Soft & Pastel
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
-![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v5.png)  
+![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v6.png)  
 
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
