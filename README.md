@@ -109,12 +109,12 @@ https://futurecomes.com/
   
 〘Objective-C〙 〘AVFoundation〙 〘Remote Push Notifications〙 〘In-App Purchase〙  
 
-▭ ▭ ▭   
+▢    
 [Snap Art ⟶ Website ◍](https://snapart.me/ "Этот лендинг вызывает у меня восторг - настоящее произведение искусства ♡")  
 [Snap Art ⟶ AppStore ](https://apps.apple.com/app/id1189930338 "░ ▆ ▋▭")  
-▭ ▭ ▭  
+▢  
 [Alter ⟶ AppStore ](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⑀⍙⑀")  
-▭ ▭ ▭       
+▢    
 [Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
 
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
@@ -123,7 +123,7 @@ https://futurecomes.com/
 
 # Собственные проекты
 https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
-### Little Button Board
+### Little ButtonBoard
 Soft & Pastel  
 
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
@@ -150,12 +150,10 @@ Soft & Pastel
 
 # Технологии и инструменты
 ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v2.png)  
+  
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
-〘Swift〙 〘Objective-C〙  
-〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙  
-〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙  〘Client-Server〙 〘REST〙   
-〘JSON〙  
-〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙  
+  
+〘Swift〙 〘Objective-C〙 ▢ 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 ▢ 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 ▢ 〘Client-Server〙 〘REST〙   ▢ 〘JSON〙 ▢ 〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙  
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
