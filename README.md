@@ -155,7 +155,8 @@ Soft & Pastel
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
   
   
-▢ 〘Swift〙 〘Objective-C〙 ▢ 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 ▢ 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 ▢ 〘Client-Server〙 〘REST〙   ▢ 〘JSON〙 ▢ 〘Xcode〙〘Sketch〙 〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 ▢   
+┊ 〘Swift〙 〘Objective-C〙 ┊ 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 ┊ 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 ┊ 〘Client-Server〙 〘REST〙   ┊ 〘JSON〙 ┊ 〘Xcode〙〘Sketch〙 〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 ┊      
+
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
