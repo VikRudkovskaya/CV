@@ -2,7 +2,7 @@
 # Intro
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v10.png)
 
-▥ Rudkovskaya Viktoria ▥  
+▥ Рудковская Виктория ▥  
 ▥ iOS Developer ▥  
   
   Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта. Программирование для меня не самоцель, но только иструмент для реализации идей. 
@@ -131,7 +131,7 @@ Soft & Pastel
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
 [Little ButtonBoard ⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
-[Little ButtonBoard ⟶ YouTube ▸](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")  
+[Little ButtonBoard ⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")  
   
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
@@ -151,9 +151,11 @@ Soft & Pastel
 # Технологии и инструменты
 ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v2.png)  
   
+  
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
   
-〘Swift〙 〘Objective-C〙 ▢ 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 ▢ 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 ▢ 〘Client-Server〙 〘REST〙   ▢ 〘JSON〙 ▢ 〘Xcode〙〘Sketch〙〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙  
+  
+▢ 〘Swift〙 〘Objective-C〙 ▢ 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 ▢ 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 ▢ 〘Client-Server〙 〘REST〙   ▢ 〘JSON〙 ▢ 〘Xcode〙〘Sketch〙 〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 ▢   
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
