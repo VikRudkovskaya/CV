@@ -7,6 +7,15 @@
   
   Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта. Программирование для меня не самоцель, но только иструмент для реализации идей. 
 
+# Технологии и инструменты
+![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v3.png)  
+  
+  
+![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
+  
+  
+〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 
+
 # Проекты внутри компаний
 В этом разделе  кратко описан опыт работы и собраны основные проекты, которые я делала в рамках работы по найму. Разумеется, сделанных приложений было больше, однако не со всеми мне хотелось бы себя ассоциировать, поэтому указываю только то, что "зацепило". 
 
@@ -121,43 +130,6 @@ https://futurecomes.com/
 
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
 
-# Собственные проекты
-https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
-### Little ButtonBoard
-Soft & Pastel  
-
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
-  
-〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
-  
-[Little ButtonBoard ⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
-[Little ButtonBoard ⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")  
-  
-![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
-![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v3.png)  
-
-### Shadesmar
-Море бусин  
-  
-  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v6.png)  
-
-〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
-  
-╳  In progress ╳   
-
-[Посмотреть код и арт](https://github.com/VikRudkovskaya/Shadesmar)  
-
-# Технологии и инструменты
-![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v3.png)  
-  
-  
-![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
-  
-  
-︱ 〘Swift〙 〘Objective-C〙 ︱ 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 ︱ 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 ︱ 〘Client-Server〙 〘REST〙   ︱ 〘JSON〙 ︱ 〘Xcode〙〘Sketch〙 〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 ︱      
-
-
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
   
@@ -216,8 +188,38 @@ VK: https://vk.com/id151521373
 
 ![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v10.png)
 
+
+# Собственные проекты
+https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
+### Little ButtonBoard
+Soft & Pastel  
+
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
+  
+〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
+  
+[Little ButtonBoard ⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
+[Little ButtonBoard ⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")  
+  
+![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
+![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v3.png)  
+
+### Shadesmar
+Море бусин  
+  
+  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v6.png)  
+
+〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
+  
+╳  In progress ╳   
+
+[Посмотреть код и арт ⟶](https://github.com/VikRudkovskaya/Shadesmar)  
+
 # Визуальные материалы вне проектов
-Зарисовки ускользающих идей
+Зарисовки ускользающих идей. 
+В первую очередь, я, конечно, IOS developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
+
 #### Eggs
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
