@@ -1,6 +1,6 @@
 # CV 
 # Intro
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v10.png)
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v11.png)
 
 ▥ Рудковская Виктория ▥  
 ▥ iOS Developer ▥  
@@ -8,13 +8,13 @@
   Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта. Программирование для меня не самоцель, но только иструмент для реализации идей. 
 
 # Технологии и инструменты
-![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v4.png)  
+![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v5.png)  
   
   
 ![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
   
   
-〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Git〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 
+〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
 
 # Проекты внутри компаний
 В этом разделе  кратко описан опыт работы и собраны основные проекты, которые я делала в рамках работы по найму. Разумеется, сделанных приложений было больше, однако не со всеми мне хотелось бы себя ассоциировать, поэтому указываю только то, что "зацепило". 
