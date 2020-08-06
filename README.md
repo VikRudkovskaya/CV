@@ -223,10 +223,6 @@ Soft & Pastel
 Зарисовки ускользающих идей. 
 В первую очередь, я, конечно, IOS developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
 
-#### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v3.png)  
-![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
-
 #### White Noize & Cubes
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
@@ -235,9 +231,9 @@ Soft & Pastel
 Завораживающая конструкция, которая время от времени занимает мой ум
 ![Монолит](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
-#### НеПлоские персонажи
-Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
-![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
+#### Eggs
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v3.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
 
 #### Техно
 ![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)  
@@ -253,3 +249,7 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
+
+#### НеПлоские персонажи
+Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
+![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
