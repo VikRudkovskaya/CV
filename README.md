@@ -224,8 +224,8 @@ Soft & Pastel
 В первую очередь, я, конечно, IOS developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
 
 #### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg.png)  
-![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2.png)  
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v2.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
 
 #### White Noize & Cubes
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize.png)  
