@@ -17,7 +17,7 @@
 〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
 
 # Проекты внутри компаний
-![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Projects-Inside-v7.png) 
+![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Projects-Inside-v8.png) 
 
 В этом разделе  кратко описан опыт работы и собраны основные проекты, которые я делала в рамках работы по найму. Разумеется, сделанных приложений было больше, однако не со всеми мне хотелось бы себя ассоциировать, поэтому указываю только то, что "зацепило". 
 
