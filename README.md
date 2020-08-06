@@ -219,6 +219,7 @@ Soft & Pastel
 [Посмотреть код и арт ⟶](https://github.com/VikRudkovskaya/Shadesmar)  
 
 # Визуальные материалы вне проектов
+![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
 Зарисовки ускользающих идей. 
 В первую очередь, я, конечно, IOS developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
 
