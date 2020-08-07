@@ -232,7 +232,7 @@ Soft & Pastel
 ![Монолит](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
 #### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v3.png)  
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v4.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
 
 #### Техно
