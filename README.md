@@ -227,15 +227,16 @@ Soft & Pastel
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-v6.png)  
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
+#### Eggs
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v3.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
+![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3.png)  
+
 #### Черный монолит
 Завораживающая конструкция, которая время от времени занимает мой ум
 ![Монолит](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-M.png)  
 
-#### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v4.png)  
-![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
-
-#### Техно
+#### Фактор М
 ![TechnoM](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-1.png)  
 ![TechnoM-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-2.png)  
 ![TechnoM-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-FactorM-3.png) 
