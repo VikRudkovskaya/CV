@@ -166,7 +166,7 @@ Instagram: https://www.instagram.com/viktoriiarudkovskaia/
 VK: https://vk.com/id151521373  
 
 # Собственные проекты
-![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v4.png) 
+![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v5.png) 
 https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
 ### Little ButtonBoard
 Soft & Pastel  
