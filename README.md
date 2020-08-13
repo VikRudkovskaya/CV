@@ -199,8 +199,9 @@ Soft & Pastel
 В первую очередь, я, конечно, IOS developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
 
 #### Panelki
-Моя вариация на тему
-![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v1.png)  
+Моя вариация на тему  
+  
+![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v2.png)  
 
 #### White Noize & Cubes
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-v6.png)  
