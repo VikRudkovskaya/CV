@@ -149,7 +149,7 @@ https://futurecomes.com/
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
-![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v8.png)  
+![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v9.png)  
 
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
@@ -196,10 +196,11 @@ Soft & Pastel
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
 Зарисовки ускользающих идей.   
-В первую очередь, я, конечно, IOS developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
+В первую очередь, я, конечно, IOS Developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
 
 #### Panelki
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto
+[Посмотреть арт ⟶](https://github.com/VikRudkovskaya/Panelki) 
   
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
 
