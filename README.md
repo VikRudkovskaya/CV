@@ -11,7 +11,7 @@
 ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v6.png)  
   
   
-![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v1.png)  
+![Tools list](https://github.com/VikRudkovskaya/CV/raw/master/Screens/ToolsList-v2.png)  
   
   
 〘Swift〙 〘Objective-C〙 〘AutoLayout〙 〘UIKit〙 〘SpriteKit〙 〘ARKit〙 〘OOP〙 〘SOLID〙 〘MVC〙 〘MVVM〙 〘Client-Server〙 〘REST〙 〘JSON〙 〘Xcode〙〘Sketch〙 〘Charles〙 〘Jira〙 〘iTunes Connect〙 〘Git〙 
