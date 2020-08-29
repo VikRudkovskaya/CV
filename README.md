@@ -43,7 +43,7 @@ AR - мой большой эксперимент с формами, вызов 
 ❒ Несмотря на многое, мне действительно очень нравится полученный результат ❒  
   
   
-![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v4.png)  
+![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v6.png)  
 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
@@ -62,7 +62,7 @@ AR - мой большой эксперимент с формами, вызов 
 
 [О'КЕЙ Доставка ⟶ AppStore ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
-![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v5.png)
+![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v6.png)
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
