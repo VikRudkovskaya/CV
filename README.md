@@ -48,7 +48,7 @@ AR - мой большой эксперимент с формами, вызов 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
 
-![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v5.png)  
+![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v4.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
 〚Single iOS Developer〛  
@@ -62,7 +62,7 @@ AR - мой большой эксперимент с формами, вызов 
 
 [О'КЕЙ Доставка ⟶ AppStore ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
-![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v4.png)
+![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v5.png)
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
