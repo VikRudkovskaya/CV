@@ -48,7 +48,7 @@ AR - мой большой эксперимент с формами, вызов 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
 
-![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v4.png)  
+![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v5.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
 〚Single iOS Developer〛  
