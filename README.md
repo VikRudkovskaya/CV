@@ -27,8 +27,9 @@ https://www.reksoft.com/
 В 2017 году начала работать в аутсорсинговой компании Reksoft [~200 человек] на различных проектах. Два самых значимых: AR ВТБ  и Okey Доставка.
 
 ### AR ВТБ
-![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v12.png)  
 Необычный проект для российского банка  
+  
+![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v12.png)  
   
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
   
@@ -46,8 +47,8 @@ AR - мой большой эксперимент с формами, вызов 
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v7.png)  
 
 ### О'КЕЙ Доставка 
+Сервис доставки для крупного продуктового российского ритейлера  
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v5.png)  
-Сервис доставки для крупного продуктового российского ритейлера   
   
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
