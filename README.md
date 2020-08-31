@@ -28,7 +28,6 @@ https://www.reksoft.com/
 
 ### AR ВТБ
 Необычный проект для российского банка  
-
 ![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v12.png)  
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
   
@@ -47,7 +46,6 @@ AR - мой большой эксперимент с формами, вызов 
 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
-
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v5.png)  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
@@ -62,7 +60,7 @@ AR - мой большой эксперимент с формами, вызов 
 
 [О'КЕЙ Доставка ⟶ AppStore ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
-![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v6.png)
+![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v7.png)
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
