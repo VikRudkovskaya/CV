@@ -29,7 +29,7 @@ https://www.reksoft.com/
 ### AR ВТБ
 Необычный проект для российского банка  
   
-![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v12.png)  
+![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v13.png)  
   
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
   
@@ -49,7 +49,7 @@ AR - мой большой эксперимент с формами, вызов 
 ### О'КЕЙ Доставка 
 Сервис доставки для крупного продуктового российского ритейлера  
   
-![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v5.png)  
+![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v6.png)  
   
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
@@ -72,7 +72,7 @@ AR - мой большой эксперимент с формами, вызов 
 ### Abstarct Loyalty Programm
 Готовые решения для внедрения программ лояльности  
 
-![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ALP-v4.png)  
+![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ALP-v5.png)  
   
 Приложение, предоставляющее функционал карты лояльности [qr-коды], а также различные дополнительные блоки [акции, новости, контакты, маршруты, меню, оформление услуг и товаров], собранные под конкретного клиента. Основная масса заказчиков небольшие сетевые заведения: кафе, рестораны, бары, салоны красоты, стоматологии и т.п.  
 
@@ -100,7 +100,7 @@ https://futurecomes.com/
 ### ToRound
 Таск-менеджер для визуалов. Каждое дело - отдельный шарик  
 
-![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v6.png "◯")  
+![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v7.png "◯")  
   
 〚iOS Developer〛[в составе небольшой команды] 
   
@@ -115,7 +115,7 @@ https://futurecomes.com/
 
 
 ### Alter | Alter Pro | Snap Art
-![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v7.png)  
+![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v8.png)  
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
 
@@ -130,7 +130,7 @@ https://futurecomes.com/
 [Alter ⟶ AppStore ](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⑀⍙⑀")  
 ▢    
 [Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
-
+▢   
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
@@ -180,6 +180,8 @@ Soft & Pastel
   
 [Little ButtonBoard ⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
 [Little ButtonBoard ⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")  
+
+[Code & Art ⟶ ](https://github.com/VikRudkovskaya/LittleBusyboard)
   
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
