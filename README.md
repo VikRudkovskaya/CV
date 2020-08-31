@@ -43,7 +43,7 @@ AR - мой большой эксперимент с формами, вызов 
 ❒ Несмотря на многое, мне действительно очень нравится полученный результат ❒  
   
   
-![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v6.png)  
+![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v7.png)  
 
 ### О'КЕЙ Доставка
 Сервис доставки для крупного продуктового российского ритейлера  
