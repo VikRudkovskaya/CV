@@ -30,7 +30,6 @@ https://www.reksoft.com/
 Необычный проект для российского банка  
   
 ![ARLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ARVTB-v12.png)  
-  
 Два схожих по функционалу приложения для отображения рекламных материалов банка в дополненной реальности: AR ВТБ и Банк на работе.  
   
 〚Single iOS Developer〛  
@@ -50,7 +49,6 @@ AR - мой большой эксперимент с формами, вызов 
 Сервис доставки для крупного продуктового российского ритейлера  
   
 ![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v5.png)  
-  
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
 〚Single iOS Developer〛  
@@ -99,7 +97,7 @@ https://futurecomes.com/
 ### ToRound
 Таск-менеджер для визуалов. Каждое дело - отдельный шарик  
 
-![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v5.png "◯")  
+![ToRoundLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-ToRound-v6.png "◯")  
   
 〚iOS Developer〛[в составе небольшой команды] 
   
@@ -114,7 +112,7 @@ https://futurecomes.com/
 
 
 ### Alter | Alter Pro | Snap Art
-![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v6.png)  
+![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v7.png)  
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
 
