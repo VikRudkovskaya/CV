@@ -196,8 +196,9 @@ Soft & Pastel
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
   
-▢  
-▢  
+❒
+❒
+❒
 
 ### Shadesmar
 Море бусин  
@@ -210,8 +211,9 @@ Soft & Pastel
 
 [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
   
-▢  
-▢   
+❒
+❒
+❒ 
 
 #### Panelki
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
@@ -220,9 +222,9 @@ Soft & Pastel
   
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
   
-▢ ▢ ▢  
-▢ ▢ ▢  
-▢ ▢ ▢  
+❒ ❒ ❒
+❒ ❒ ❒  
+❒ ❒ ❒  
 
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
