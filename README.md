@@ -43,8 +43,9 @@ AR - мой большой эксперимент с формами, вызов 
 
 ❒ Несмотря на многое, мне действительно очень нравится полученный результат ❒  
   
-  
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v7.png)  
+▢  
+▢  
 
 ### О'КЕЙ Доставка 
 Сервис доставки для крупного продуктового российского ритейлера  
@@ -65,6 +66,8 @@ AR - мой большой эксперимент с формами, вызов 
 [О'КЕЙ Доставка ⟶ AppStore ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v7.png)
+▢  
+▢  
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
@@ -90,7 +93,8 @@ AR - мой большой эксперимент с формами, вызов 
 [BangLab ⟶ AppStore ](https://apps.apple.com/ru/app/bang-lab/id1256551927)  
 
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)  
-
+▢  
+▢  
 ## FutureComes ◯ 〚2016 - 2017〛
 https://futurecomes.com/  
 
@@ -112,9 +116,12 @@ https://futurecomes.com/
 ╳ Оффлайн-функционал точно работает ╳  
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
-
+▢  
+▢  
 
 ### Alter | Alter Pro | Snap Art
+Обработка фотографий нейронной сетью  
+  
 ![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v8.png)  
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
@@ -135,6 +142,8 @@ https://futurecomes.com/
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
+▢  
+▢  
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
@@ -193,25 +202,25 @@ Soft & Pastel
 ### Shadesmar
 Море бусин  
   
-  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v7.png)  
+![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v7.png)  
 
 〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
   
 ╳  In progress ╳   
 
 [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
+  
+#### Panelki
+Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
+[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
+      
+![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
 
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
 Зарисовки ускользающих идей  
   
 Первоочередно, я, конечно, IOS Developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
-
-#### Panelki
-Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
-[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
-      
-![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
 
 #### White Noize & Cubes
 ![Noize](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-v6.png)  
