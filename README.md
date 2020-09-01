@@ -45,9 +45,9 @@ AR - мой большой эксперимент с формами, вызов 
   
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v7.png)  
     
-□  
-□  
-□   
+▪  
+▪  
+▪   
 
 ### О'КЕЙ Доставка 
 Сервис доставки для крупного продуктового российского ритейлера  
@@ -69,9 +69,9 @@ AR - мой большой эксперимент с формами, вызов 
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v7.png)
   
-❒  
-❒  
-❒   
+▇    
+▇  
+▇   
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
@@ -123,9 +123,9 @@ https://futurecomes.com/
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
   
-◧
-◨  
-◨     
+■  
+■    
+■       
 
 ### Alter | Alter Pro | Snap Art
 Обработка фотографий нейронной сетью  
