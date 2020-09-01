@@ -44,7 +44,6 @@ AR - мой большой эксперимент с формами, вызов 
 ❒ Несмотря на многое, мне действительно очень нравится полученный результат ❒  
   
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v7.png)  
-    
 ▪  
 ▪  
 ▪   
@@ -68,10 +67,9 @@ AR - мой большой эксперимент с формами, вызов 
 [О'КЕЙ Доставка ⟶ AppStore ](https://apps.apple.com/ru/app/%D0%BE%D0%BA%D0%B5%D0%B9/id1087812169)  
 
 ![OKEY](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Okey-v7.png)
-  
-▇    
-▇  
-▇   
+▪  
+▪  
+▪ 
 
 ## ▨ RestartIT ▧ 〚2017〛
 Работа в маленькой аутсорсинговой компании [~10 человек]. Консультирование, разработка технических решений, проведение code review, оценка сроков. Основной проект: абстрактная программа лояльности.  
@@ -97,7 +95,6 @@ AR - мой большой эксперимент с формами, вызов 
 [BangLab ⟶ AppStore ](https://apps.apple.com/ru/app/bang-lab/id1256551927)  
 
 ![ALP](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-AbstractLoyaltyProgramm-v4.png)  
-  
 ❒  
 ❒  
 ❒   
@@ -122,10 +119,9 @@ https://futurecomes.com/
 ╳ Оффлайн-функционал точно работает ╳  
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
-  
-■  
-■    
-■       
+▪  
+▪  
+▪ 
 
 ### Alter | Alter Pro | Snap Art
 Обработка фотографий нейронной сетью  
@@ -146,16 +142,63 @@ https://futurecomes.com/
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
+▪  
+▪  
+▪ 
+
+# Собственные проекты
+![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v5.png) 
+https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
+
+### Little ButtonBoard
+Soft & Pastel  
+
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v5.png)  
   
-▪  
-▪  
-▪   
+〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
+  
+[⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")    
+[⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")    
+[⟶ Code & Art](https://github.com/VikRudkovskaya/LittleBusyboard)  
+  
+![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
+![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
+❐  
+❐  
+❐  
+
+### Shadesmar
+Море бусин  
+  
+![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v7.png)  
+
+〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
+  
+╳  In progress ╳   
+
+[⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
+  
+❑  
+❑  
+❑   
+
+#### Panelki
+Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
+  
+[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
+  
+![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
+  
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒    
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒      
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒      
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
   
 ◎ Прослушанные курсы:  
-〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Дискретный анализ〙 〘Теория игр〙 〘Теория управления〙  〘Функциональный анализ〙 〘Математическая статистика〙 〘Философия〙
+〘Математический анализ〙 〘Функциональный анализ〙 〘Комплексный анализ〙 〘Дискретный анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙  〘Теория игр〙 〘Теория управления〙 〘Математическая статистика〙 〘Философия〙
   
 ◎ Защита диплома бакалавра:  
  "Разработка iOS-приложений в среде Xcode (Органайзер для чеков)"  
@@ -164,7 +207,7 @@ https://futurecomes.com/
 Мое самое первое приложение, на разработку которого было потрачено около полугода. Рабочие файлы, сваленные в кучу, detected 👾. Тематика приложения сейчас - шесть лет спустя - выглядит уже абсолютно мертворожденной.
 Не удаляю специально, чтобы помнить о том, какой огромный путь я прошла.   
   
-◎ Значимая исследовальская работа:  
+◎ Значимая исследовальская работа в рамках специального курса:  
 "Распознавание штриховых кодов EAN-13"  
 [⟶ Code](https://github.com/VikRudkovskaya/EAN-13-Barcode-Reader-for-iOS "Obj-C code")
 
@@ -186,55 +229,6 @@ WhatsApp: +79502219224
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
-
-# Собственные проекты
-![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v5.png) 
-https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
-
-### Little ButtonBoard
-Soft & Pastel  
-
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v5.png)  
-  
-〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
-  
-[⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")    
-[⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")    
-[⟶ Code & Art](https://github.com/VikRudkovskaya/LittleBusyboard)  
-  
-![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
-![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
-  
-❒  
-❒  
-❒  
-
-### Shadesmar
-Море бусин  
-  
-![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v7.png)  
-
-〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
-  
-╳  In progress ╳   
-
-[⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
-  
-❒  
-❒  
-❒   
-
-#### Panelki
-Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
-  
-[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
-  
-![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
-  
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒    
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒    
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒    
 
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
