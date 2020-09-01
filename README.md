@@ -178,7 +178,7 @@ https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
 ### Little ButtonBoard
 Soft & Pastel  
 
-![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v4.png)  
+![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-LBB-v5.png)  
   
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
@@ -193,7 +193,7 @@ Soft & Pastel
 ### Shadesmar
 Море бусин  
   
-  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v6.png)  
+  ![Shadesmar](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Shadesmar-v7.png)  
 
 〘Swift〙 〘SpriteKit〙〘MVVM〙 〘Client-Server like〙〘Localizations〙 〘Sketching & Art〙   
   
@@ -203,7 +203,8 @@ Soft & Pastel
 
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
-Зарисовки ускользающих идей.   
+Зарисовки ускользающих идей  
+  
 Первоочередно, я, конечно, IOS Developer, но мне нравится совмещать несколько слоев. Рисование для меня -  один из путей борьбы со стрессом. 
 
 #### Panelki
