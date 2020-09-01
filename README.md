@@ -45,9 +45,9 @@ AR - мой большой эксперимент с формами, вызов 
   
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v7.png)  
     
-❒  
-❒  
-❒   
+□  
+□  
+□   
 
 ### О'КЕЙ Доставка 
 Сервис доставки для крупного продуктового российского ритейлера  
@@ -123,9 +123,9 @@ https://futurecomes.com/
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
   
-❒  
-❒  
-❒   
+◧
+◨  
+◨     
 
 ### Alter | Alter Pro | Snap Art
 Обработка фотографий нейронной сетью  
@@ -147,9 +147,9 @@ https://futurecomes.com/
 
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
   
-❒  
-❒  
-❒   
+▪  
+▪  
+▪   
 
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
@@ -232,9 +232,9 @@ Soft & Pastel
   
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
   
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒    
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒    
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒ ❒ ❒    
 
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
