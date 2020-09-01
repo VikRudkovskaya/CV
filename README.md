@@ -131,6 +131,7 @@ https://futurecomes.com/
 ▢    
 [Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
 ▢   
+  
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
@@ -138,17 +139,20 @@ https://futurecomes.com/
 # Образование
 ◉ Получила степень Бакалавра по Прикладной Математике, Фундаментальной Информатике и Программированию [010401] в [Санкт-Петербургском Государственном Университете](https://spbu.ru/)  
   
-  Прослушанные курсы:  
+◎ Прослушанные курсы:  
 〘Математический анализ〙 〘Алгебра и теория чисел〙 〘Геометрия и топология〙 〘Дискретный анализ〙 〘Теория игр〙 〘Теория управления〙  〘Функциональный анализ〙 〘Математическая статистика〙 〘Философия〙
   
- Защита диплома бакалавра:  
- "Разработка iOS-приложений в среде Xcode"  
-[Органайзер для чеков  ⟶ YouTube ▷](https://www.youtube.com/watch?v=PI1l7TGF9Ik&t=6s "Экранная запись симулятора")  
+◎ Защита диплома бакалавра:  
+ "Разработка iOS-приложений в среде Xcode (Органайзер для чеков)"  
+[⟶ YouTube ▷](https://www.youtube.com/watch?v=PI1l7TGF9Ik&t=6s "Экранная запись симулятора")  
   
 Мое самое первое приложение, на разработку которого было потрачено около полугода. Рабочие файлы, сваленные в кучу, detected 👾. Тематика приложения сейчас - шесть лет спустя - выглядит уже абсолютно мертворожденной.
 Не удаляю специально, чтобы помнить о том, какой огромный путь я прошла.   
   
-    
+◎ Значимая исследовальская работа: 
+"Распознавание штриховых кодов EAN-13"  
+[⟶ Code](https://github.com/VikRudkovskaya/EAN-13-Barcode-Reader-for-iOS "Obj-C code")
+
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
 
 # Контакты
@@ -178,10 +182,9 @@ Soft & Pastel
   
 〘Swift〙 〘MVVM〙 〘Client-Server like〙〘Localizations〙〘Sketching & Art〙  
   
-[Little ButtonBoard ⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")  
-[Little ButtonBoard ⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")  
-
-[Code & Art ⟶ ](https://github.com/VikRudkovskaya/LittleBusyboard)
+[⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")    
+[⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")    
+[⟶ Code & Art](https://github.com/VikRudkovskaya/LittleBusyboard)  
   
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
@@ -196,7 +199,7 @@ Soft & Pastel
   
 ╳  In progress ╳   
 
-[Посмотреть код и арт ⟶](https://github.com/VikRudkovskaya/Shadesmar)  
+[⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
 
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
@@ -205,7 +208,7 @@ Soft & Pastel
 
 #### Panelki
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
-[Посмотреть арт ⟶](https://github.com/VikRudkovskaya/Panelki)   
+[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
       
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
 
