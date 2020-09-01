@@ -129,15 +129,11 @@ https://futurecomes.com/
 〚iOS Developer〛[в составе небольшой команды]   
   
 〘Objective-C〙 〘AVFoundation〙 〘Remote Push Notifications〙 〘In-App Purchase〙  
-
-▢    
+     
 [Snap Art ⟶ Website ◍](https://snapart.me/ "Этот лендинг вызывает у меня восторг - настоящее произведение искусства ♡")  
 [Snap Art ⟶ AppStore ](https://apps.apple.com/app/id1189930338 "░ ▆ ▋▭")  
-▢  
 [Alter ⟶ AppStore ](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⑀⍙⑀")  
-▢    
-[Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")  
-▢   
+[Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")    
   
 ╳ Приложения не поддерживаются. Серверная часть не работает ╳   
 
@@ -184,6 +180,7 @@ VK: https://vk.com/id151521373
 # Собственные проекты
 ![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v5.png) 
 https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
+
 ### Little ButtonBoard
 Soft & Pastel  
 
@@ -198,6 +195,7 @@ Soft & Pastel
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
+  
 ▢  
 ▢  
 
@@ -211,14 +209,17 @@ Soft & Pastel
 ╳  In progress ╳   
 
 [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
+  
 ▢  
 ▢   
 
 #### Panelki
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
+  
 [⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
-      
+  
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
+  
 ▢ ▢ ▢  
 ▢ ▢ ▢  
 ▢ ▢ ▢  
