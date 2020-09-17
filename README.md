@@ -44,9 +44,9 @@ AR - мой большой эксперимент с формами, вызов 
 ╳  Мне не известна дальнейшая судьба проекта: похоже, что он похоронен в недрах ВТБ. Несмотря на многое, мне действительно очень нравится полученный результат ╳  
   
 ![ARVTB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ARVTB-v8.png)  
-◽️  
-◽️  
-◽️    
+❒  
+❒  
+❒       
 
 ### О'КЕЙ Доставка 
 Сервис доставки для крупного продуктового российского ритейлера  
@@ -241,7 +241,7 @@ VK: https://vk.com/id151521373
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
 #### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v3.png)  
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v4.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
 ![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3.png)  
 
