@@ -242,8 +242,8 @@ VK: https://vk.com/id151521373
 
 #### Eggs
 ![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v6.png)  
-![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
-![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3.png)  
+![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v3.png)  
+![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3-v2.png)  
 
 #### Черный монолит
 Завораживающая конструкция, которая время от времени занимает мой ум
