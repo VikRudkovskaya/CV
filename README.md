@@ -119,9 +119,9 @@ https://futurecomes.com/
 ╳ Оффлайн-функционал точно работает ╳  
 
 ![ToRound](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-ToRound-v0.png)  
-▪  
-▪  
-▪ 
+●  
+●  
+● 
 
 ### Alter | Alter Pro | Snap Art
 Обработка фотографий нейронной сетью  
@@ -164,10 +164,10 @@ Soft & Pastel
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
-❐  
-❐  
-❐  
-
+  
+◯           
+◯               
+  
 ### Shadesmar
 Море бусин  
   
@@ -179,9 +179,9 @@ Soft & Pastel
 
 [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
   
-❑  
-❑  
-❑   
+●    
+●  
+●     
 
 #### Panelki
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
@@ -241,7 +241,7 @@ VK: https://vk.com/id151521373
 ![Noize-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-WhiteNoize-2.png)  
 
 #### Eggs
-![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v4.png)  
+![Eggs-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-v6.png)  
 ![Eggs-2](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-2-v2.png)  
 ![Eggs-3](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-SphereEgg-3.png)  
 
