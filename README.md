@@ -264,6 +264,9 @@ VK: https://vk.com/id151521373
 #### VR's Logos
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
 
+#### Рига. Знак-молния
+![Riga](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Lightning.png) 
+
 #### НеПлоские персонажи
 Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI   
 ![Pers](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Pers.png)  
