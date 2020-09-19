@@ -164,10 +164,10 @@ Soft & Pastel
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
-  
-◯           
-◯               
-  
+ 
+ ●    
+ ●  
+            
 ### Shadesmar
 Море бусин  
   
@@ -179,9 +179,9 @@ Soft & Pastel
 
 [⟶ Code & Art](https://github.com/VikRudkovskaya/Shadesmar)  
   
-●    
-●  
-●     
+◯           
+◯  
+◯  
 
 #### Panelki
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
@@ -212,24 +212,7 @@ Soft & Pastel
 [⟶ Code](https://github.com/VikRudkovskaya/EAN-13-Barcode-Reader-for-iOS "Obj-C code")
 
 ◉ Окончила [Физико-Математический Лицей №15](http://sc15sarov.ru/) в г. Саров Нижегородской обл. с отличием [серебряная медаль]
-
-# Контакты
-![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v14.png)  
-
-▥ Мессенджеры    
-Telegram: @VikRdkvsk  
-Skype: vik-rudkovskaya  
-WhatsApp: +79502219224  
-
-▨ Связь   
-  vik-rudkovskaya@yandex.ru  
-  +372 5399 0700  
   
-▤ Социальные сети  
-LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
-Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
-VK: https://vk.com/id151521373  
-
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
 Зарисовки ускользающих идей  
@@ -295,3 +278,20 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 ◎ Родилась в России. Детство прошло в городе Саров Нижегородской области  
 
 ![BIO](https://github.com/VikRudkovskaya/CV/raw/master/Screens/BIO-v10.png)
+
+# Контакты
+![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v14.png)  
+
+▥ Мессенджеры    
+Telegram: @VikRdkvsk  
+Skype: vik-rudkovskaya  
+WhatsApp: +79502219224  
+
+▨ Связь   
+  vik-rudkovskaya@yandex.ru  
+  +372 5399 0700  
+  
+▤ Социальные сети  
+LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
+Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
+VK: https://vk.com/id151521373  
