@@ -1,4 +1,4 @@
-# CV 
+# CV & History
 # Intro
 ![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v14.png)
 
@@ -51,7 +51,7 @@ AR - мой большой эксперимент с формами, вызов 
 ### О'КЕЙ Доставка 
 Сервис доставки для крупного продуктового российского ритейлера  
   
-![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v7.png)  
+![OKEY-Logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Okey-v8.png)  
   
 Приложение позволяющее заказать доставку продуктов питания из гипермаркета со встроенной программой лояльности, информацией о магазинах, скидках и акциях.  
   
