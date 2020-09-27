@@ -166,8 +166,9 @@ Soft & Pastel
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
 ![LBB-Donuts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Donuts-v5.png)  
  
- ●    
- ●  
+⌾
+⌾
+⌾  
             
 ### Shadesmar
 Море бусин  
