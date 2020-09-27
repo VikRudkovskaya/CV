@@ -148,7 +148,7 @@ https://futurecomes.com/
 ▪ 
 
 # Собственные проекты
-![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v5.png) 
+![My projects](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-My-Projects-v6.png) 
 https://apps.apple.com/us/developer/viktoria-rudkovskaya/id1451616427
 
 ### Little ButtonBoard
