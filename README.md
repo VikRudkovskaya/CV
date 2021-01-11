@@ -1,14 +1,15 @@
 # CV & History
 # Вступление
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v14.png)
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v22.png)
 
 ▥ Рудковская Виктория ▥  
 ▥ iOS Developer ▥  
   
   Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта. Программирование для меня не самоцель, но только иструмент для реализации идей. 
     
-▥ Поиск форм ▥ Творчество ▥ Систематизация ▥  
+▥ Поиск форм ▥ Созидание ▥ Систематизация ▥  
   
+[⟶ ⌈CV-EN⌉](https://github.com/VikRudkovskaya/CV-EN "CV in english")     
 
 # Технологии и инструменты
 ![Tools logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Tools-v7.png)  
