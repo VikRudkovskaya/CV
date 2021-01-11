@@ -1,6 +1,6 @@
 # CV & History
 # Вступление
-![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v25.png)
+![Years](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-years-v26.png)
 
 ▥ Рудковская Виктория ▥  
 ▥ iOS Developer ▥  
