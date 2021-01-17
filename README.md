@@ -5,7 +5,7 @@
 ▥ Рудковская Виктория ▥  
 ▥ iOS Developer ▥  
   
-  Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная состовляющая проекта. Программирование для меня не самоцель, но только иструмент для реализации идей. 
+  Самое важное для меня: практический опыт, применение над теорией, получение результата, видеть как из ничего получается что-то. Также для меня очень важна визуальная составляющая проекта. Программирование для меня не самоцель, но только инструмент для реализации идей. 
     
 ▥ Поиск форм ▥ Созидание ▥ Систематизация ▥  
   
@@ -131,7 +131,7 @@ https://futurecomes.com/
 ### Alter | Alter Pro | Snap Art
 Обработка фотографий нейронной сетью  
   
-![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v8.png)  
+![AlterLogo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Alter-v8.png "╳ Приложения не поддерживаются. Серверная часть не работает ╳   ")  
 
 Разработка MVP [Alter] и публикации. Затем произошла эволюция и трансформация идей ⟶ доработка приложения и внедрение механизмов монетизации [Alter Pro и Snap Art].  
 
@@ -144,8 +144,6 @@ https://futurecomes.com/
 [Alter ⟶ AppStore ](https://apps.apple.com/us/app/alter-art-effects-and-photo-filters/id1130872295 "⑀⍙⑀")  
 [Alter Pro ⟶ AppStore ](https://apps.apple.com/us/app/alter-pro-high-resolution-artworks/id1160222526 "⍙ PRO ⍙")    
   
-╳ Приложения не поддерживаются. Серверная часть не работает ╳   
-
 ![Alter](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Exp-Alter-v0.png)  
 ▪  
 ▪  
@@ -304,3 +302,17 @@ WhatsApp: +79502219224
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
+
+# Контакты
+![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v14.png)  
+
+▫ Telegram: @VikRdkvsk  
+▫ Skype: vik-rudkovskaya  
+▫ WhatsApp: +79502219224  
+  
+▫ vik-rudkovskaya@yandex.ru  
+▫ +372 5399 0700  
+  
+▫ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
+▫ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
+▫ VK: https://vk.com/id151521373  
