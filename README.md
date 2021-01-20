@@ -302,17 +302,3 @@ WhatsApp: +79502219224
 LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
 Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
 VK: https://vk.com/id151521373  
-
-# Контакты
-![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v14.png)  
-
-▫ Telegram: @VikRdkvsk  
-▫ Skype: vik-rudkovskaya  
-▫ WhatsApp: +79502219224  
-  
-▫ vik-rudkovskaya@yandex.ru  
-▫ +372 5399 0700  
-  
-▫ LinkedIn: https://www.linkedin.com/in/viktoria-rudkovskaya-8baa27b8  
-▫ Instagram: https://www.instagram.com/viktoriiarudkovskaia/  
-▫ VK: https://vk.com/id151521373  
