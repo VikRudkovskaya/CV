@@ -196,9 +196,9 @@ Soft & Pastel
   
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
   
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒      
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒        
-❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒        
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒  
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒         
+❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒ ❒  ❒ ❒ ❒  ❒ ❒ ❒   ❒ ❒ ❒  ❒ ❒ ❒ ❒       
   
 # Визуальные материалы вне проектов
 ![Projects inside logo](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Outside-Borders-v1.png) 
