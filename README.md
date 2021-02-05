@@ -235,9 +235,8 @@ Soft & Pastel
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
 
 #### Рига. Знак-молния
-Август-Ноябрь 2020   
-[⟶ Behave](https://www.behance.net/gallery/112864993/Lightning-sign "")  
-  
+[⟶ Behance](https://www.behance.net/gallery/112864993/Lightning-sign "")  
+    
 ![Riga](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Lightning.png) 
 
 #### НеПлоские персонажи  
