@@ -162,7 +162,9 @@ Soft & Pastel
   
 [⟶ AppStore ](https://apps.apple.com/us/app/little-busyboard/id1451616428 "🖤")    
 [⟶ YouTube ▷](https://www.youtube.com/watch?v=Sj96SaZYuUc "Экранная запись с телефона")    
-[⟶ Code & Art](https://github.com/VikRudkovskaya/LittleBusyboard)  
+[⟶ Code & Art](https://github.com/VikRudkovskaya/LittleBusyboard "Private")  
+[⟶ Bēhance](https://www.behance.net/gallery/113038451/Little-ButtonBoard)
+
   
 ![LBB-Cloud](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Clouds-v4.png)  
 ![LBB](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-LBB-Artwork.png)  
