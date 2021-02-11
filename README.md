@@ -192,10 +192,11 @@ Soft & Pastel
 
 #### Panelki
 Бетон и блоки  
-  
+
 Моя вариация на тему  https://www.zupagrafika.com/shop-posters/prague-jizni-mesto  
   
-[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki)   
+[⟶ Code & Art](https://github.com/VikRudkovskaya/Panelki) 
+[⟶ Bēhance]( https://www.behance.net/gallery/113241711/panelki)
   
 ![Panelki-1](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Panelki-1-v4.png)  
   
@@ -238,7 +239,7 @@ Soft & Pastel
 ![Logo VRRN](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-MyLogos.png)  
 
 #### Рига. Знак-молния
-[⟶ Behance](https://www.behance.net/gallery/112864993/Lightning-sign "")  
+[⟶ Bēhance](https://www.behance.net/gallery/112864993/Lightning-sign "")  
     
 ![Riga](https://github.com/VikRudkovskaya/CV/raw/master/Screens/MyPrjcts-Lightning.png) 
 
