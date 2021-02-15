@@ -293,7 +293,8 @@ Der Mechanikus. Злой треугольник ◬⑅. Поехаший hAI
 
 # Контакты
 ![Contacts](https://github.com/VikRudkovskaya/CV/raw/master/Screens/Logo-Contacts-v14.png)  
-
+[⟶](https://taplink.cc/viktoriiarudkovskaia)  
+  
 ▥ Мессенджеры    
 Telegram: @VikRdkvsk  
 Skype: vik-rudkovskaya  
